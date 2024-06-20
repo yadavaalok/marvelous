@@ -4,18 +4,14 @@
     "paragraph": "Welcome to Marvelous!!"
   },
   "About": {
-    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "paragraph": "Welcome to Marvelous Property and Services Ltd. (MPSPL), your trusted partner for accommodation solutions. We offer single-window, one-stop solutions for companies and individual clients alike.\n\nWith extensive experience and deep industry knowledge, our team ensures a seamless experience, centralizing all your logistical and service needs. Whether you need short-term stays, long-term housing, or corporate accommodation, we deliver exceptional results.\n\nChoose MPSPL for reliable, high-quality services backed by a proven track record. Let us handle the details, so you can focus on what matters most. Experience the convenience and peace of mind with an industry leader.",
     "Why": [
-      "Lorem ipsum dolor",
-      "Tempor incididunt",
-      "Lorem ipsum dolor",
-      "Incididunt ut labore"
-    ],
-    "Why2": [
-      "Aliquip ex ea commodo",
-      "Lorem ipsum dolor",
-      "Exercitation ullamco",
-      "Lorem ipsum dolor"
+      "Compliant company",
+      "Custom-made Solution",
+      "Offers Flexibilty & Rotations",
+      "Well Trained Personnel",
+      "Continuous work for better effiencies",
+      "Dynamic Team with rich experience across diversed verticals"
     ]
   },
   "Gallery": [
@@ -152,12 +148,9 @@
     }
   ],
   "Contact": {
-    "address": "4321 California St, San Francisco, CA 12345 ",
-    "phone": "+1 123 456 1234",
-    "email": "info@company.com",
-    "facebook": "fb.com",
-    "twitter": "twitter.com",
-    "youtube": "youtube.com"
+    "address": "Shop No. 35, Vasant Marvel, Western Express Highway, Borivali-(East), Mumbai-400066",
+    "phone": "022 - 65141522 / 022 - 65178887",
+    "email": "info@company.com"
   },
   "Features": [
     {
