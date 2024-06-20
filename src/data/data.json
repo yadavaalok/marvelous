@@ -64,33 +64,43 @@
   "Services": [
     {
       "icon": "fa fa-wordpress",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "name": "Maintenance and housekeeping services",
+      "text": "Comprehensive maintenance and housekeeping services ensuring impeccable facility upkeep and guest comfort."
     },
     {
       "icon": "fa fa-cart-arrow-down",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "name": "Long-term and short-term corporate stays",
+      "text": "Accommodations tailored for both long-term and short-term corporate stays, providing flexibility and comfort for business travelers."
     },
     {
       "icon": "fa fa-cloud-download",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "name": "Fully-furnished apartments and serviced residences",
+      "text": "Modern, fully-furnished apartments and serviced residences offering convenience and comfort for extended stays."
     },
     {
       "icon": "fa fa-language",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "name": "Catering and hospitality services",
+      "text": "Comprehensive catering and hospitality services to enhance guest experiences and event success."
     },
     {
       "icon": "fa fa-plane",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "name": "Personalized check-in and check-out processes",
+      "text": "Tailored check-in and check-out processes for a personalized guest experience."
     },
     {
       "icon": "fa fa-pie-chart",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "name": "Customizable meal plans for guests",
+      "text": "Offering customizable meal plans to accommodate the unique preferences of our guests."
+    },
+    {
+      "icon": "fa fa-pie-chart",
+      "name": "Commercial housekeeping",
+      "text": "Professional commercial housekeeping services tailored to maintain cleanliness and organization in business environments."
+    },
+    {
+      "icon": "fa fa-pie-chart",
+      "name": "24/7 customer support for all guest needs.",
+      "text": "Round-the-clock customer support available to address all guest needs promptly and effectively."
     }
   ],
   "Testimonials": [
@@ -150,7 +160,7 @@
   "Contact": {
     "address": "Shop No. 35, Vasant Marvel, Western Express Highway, Borivali-(East), Mumbai-400066",
     "phone": "022 - 65141522 / 022 - 65178887",
-    "email": "info@company.com"
+    "email": "mpspl.mumbai@gmail.com"
   },
   "Features": [
     {
